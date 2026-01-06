@@ -1,1 +1,3 @@
-# NoDriSc
+# Network Nodes' Support Score
+This is an ongoing project ...
+The end goal of this project is proposing a method in which a Graph Signal Processing -based method assigns a score to each node. This node would assess the driving role of the node in the network. Mathemetical details will be added later.
